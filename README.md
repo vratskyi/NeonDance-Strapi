@@ -13,7 +13,7 @@
 
 It is created in the style of Neon Cyberpunk, (_was inspired by cyberpunk 2077_), in general I hope someone will like this project, and on its basis you can create something of your own.
 
-> ### [🔥Live preview](https://vratsky.com/)
+> ### [🔥Live preview](https://vratsky.com/) - non Strapi version
 >
 > **Release will be soon, but you can use it right now😊**
 
