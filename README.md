@@ -7,7 +7,7 @@
 <a href="https://github.com/vratskyi/neon-dance/tree/master" target="_blank"> <img src="https://img.shields.io/badge/Version-0.2.7-success"> </a>
 </div>
 
-# Neon Dance - Portfolio Website & <a href="">Strapi</a> 😎🔥
+# Neon Dance - Portfolio Website & <a href="https://strapi.io/" target="_blank">Strapi</a> 😎🔥
 
 ### Hi everyone! I am happy to show you my first open source project on github.
 
