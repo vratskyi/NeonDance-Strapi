@@ -62,13 +62,6 @@ Very glad that I was able to achieve these results, but that's not all, there is
  ┣ 📜tailwind.config.js
  ┗ 📜package.json
 ```
-
-# Road Map v1.0.0\*
-
-> - [ ] **Optimization** - Code optimization, reworking the use of Vue.JS methods, bug fixes.
-> - [ ] **Decomposition** - Separation of reusable elements into components
-> - [ ] **[Strapi](https://strapi.io/)** - Integration with Strapi CMS, easy management of site content, without the need for knowledge of the code.
-
 # Neon Dance Instalation
 
 ## Setup
